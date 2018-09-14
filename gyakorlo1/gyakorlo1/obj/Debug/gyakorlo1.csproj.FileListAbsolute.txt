@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\School-tasks\gyakorlo1\gyakorlo1\bin\Debug\gyakorlo1.exe.config
+C:\Users\petya\Desktop\visual\School-tasks\gyakorlo1\gyakorlo1\bin\Debug\gyakorlo1.exe
+C:\Users\petya\Desktop\visual\School-tasks\gyakorlo1\gyakorlo1\bin\Debug\gyakorlo1.pdb
+C:\Users\petya\Desktop\visual\School-tasks\gyakorlo1\gyakorlo1\obj\Debug\gyakorlo1.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\School-tasks\gyakorlo1\gyakorlo1\obj\Debug\gyakorlo1.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\School-tasks\gyakorlo1\gyakorlo1\obj\Debug\gyakorlo1.exe
+C:\Users\petya\Desktop\visual\School-tasks\gyakorlo1\gyakorlo1\obj\Debug\gyakorlo1.pdb
