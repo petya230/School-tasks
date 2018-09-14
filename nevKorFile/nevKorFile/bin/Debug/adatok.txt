@@ -1,0 +1,6 @@
+﻿Péter;20
+Géza;14
+Béla;18
+Norbert;97
+Noémi;12
+Nándi;16

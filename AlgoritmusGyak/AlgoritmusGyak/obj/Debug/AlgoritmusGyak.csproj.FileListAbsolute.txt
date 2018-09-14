@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\AlgoritmusGyak\AlgoritmusGyak\bin\Debug\AlgoritmusGyak.exe.config
+C:\Users\petya\Desktop\visual\AlgoritmusGyak\AlgoritmusGyak\bin\Debug\AlgoritmusGyak.exe
+C:\Users\petya\Desktop\visual\AlgoritmusGyak\AlgoritmusGyak\bin\Debug\AlgoritmusGyak.pdb
+C:\Users\petya\Desktop\visual\AlgoritmusGyak\AlgoritmusGyak\obj\Debug\AlgoritmusGyak.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\AlgoritmusGyak\AlgoritmusGyak\obj\Debug\AlgoritmusGyak.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\AlgoritmusGyak\AlgoritmusGyak\obj\Debug\AlgoritmusGyak.exe
+C:\Users\petya\Desktop\visual\AlgoritmusGyak\AlgoritmusGyak\obj\Debug\AlgoritmusGyak.pdb

@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\petya\Desktop\visual\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\petya\Desktop\visual\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\petya\Desktop\visual\Lista\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\petya\Desktop\visual\Lista\Lista\obj\Debug\Lista.pdb

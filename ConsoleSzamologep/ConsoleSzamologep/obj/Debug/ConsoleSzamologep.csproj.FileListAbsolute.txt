@@ -1,0 +1,7 @@
+C:\Users\petya\source\repos\ConsoleSzamologep\ConsoleSzamologep\bin\Debug\ConsoleSzamologep.exe.config
+C:\Users\petya\source\repos\ConsoleSzamologep\ConsoleSzamologep\bin\Debug\ConsoleSzamologep.exe
+C:\Users\petya\source\repos\ConsoleSzamologep\ConsoleSzamologep\bin\Debug\ConsoleSzamologep.pdb
+C:\Users\petya\source\repos\ConsoleSzamologep\ConsoleSzamologep\obj\Debug\ConsoleSzamologep.csprojAssemblyReference.cache
+C:\Users\petya\source\repos\ConsoleSzamologep\ConsoleSzamologep\obj\Debug\ConsoleSzamologep.csproj.CoreCompileInputs.cache
+C:\Users\petya\source\repos\ConsoleSzamologep\ConsoleSzamologep\obj\Debug\ConsoleSzamologep.exe
+C:\Users\petya\source\repos\ConsoleSzamologep\ConsoleSzamologep\obj\Debug\ConsoleSzamologep.pdb

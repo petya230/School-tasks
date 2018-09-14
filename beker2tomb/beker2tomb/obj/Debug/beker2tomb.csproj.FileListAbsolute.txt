@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\beker2tomb\beker2tomb\bin\Debug\beker2tomb.exe.config
+C:\Users\petya\Desktop\visual\beker2tomb\beker2tomb\bin\Debug\beker2tomb.exe
+C:\Users\petya\Desktop\visual\beker2tomb\beker2tomb\bin\Debug\beker2tomb.pdb
+C:\Users\petya\Desktop\visual\beker2tomb\beker2tomb\obj\Debug\beker2tomb.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\beker2tomb\beker2tomb\obj\Debug\beker2tomb.exe
+C:\Users\petya\Desktop\visual\beker2tomb\beker2tomb\obj\Debug\beker2tomb.pdb
+C:\Users\petya\Desktop\visual\beker2tomb\beker2tomb\obj\Debug\beker2tomb.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\nevkorfile2\nevkorfile2\bin\Debug\nevkorfile2.exe.config
+C:\Users\petya\Desktop\visual\nevkorfile2\nevkorfile2\bin\Debug\nevkorfile2.exe
+C:\Users\petya\Desktop\visual\nevkorfile2\nevkorfile2\bin\Debug\nevkorfile2.pdb
+C:\Users\petya\Desktop\visual\nevkorfile2\nevkorfile2\obj\Debug\nevkorfile2.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\nevkorfile2\nevkorfile2\obj\Debug\nevkorfile2.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\nevkorfile2\nevkorfile2\obj\Debug\nevkorfile2.exe
+C:\Users\petya\Desktop\visual\nevkorfile2\nevkorfile2\obj\Debug\nevkorfile2.pdb

@@ -1,0 +1,6 @@
+C:\Users\petya\Desktop\visual\nullpointer\nullpointer\bin\Debug\nullpointer.exe.config
+C:\Users\petya\Desktop\visual\nullpointer\nullpointer\bin\Debug\nullpointer.exe
+C:\Users\petya\Desktop\visual\nullpointer\nullpointer\bin\Debug\nullpointer.pdb
+C:\Users\petya\Desktop\visual\nullpointer\nullpointer\obj\Debug\nullpointer.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\nullpointer\nullpointer\obj\Debug\nullpointer.exe
+C:\Users\petya\Desktop\visual\nullpointer\nullpointer\obj\Debug\nullpointer.pdb

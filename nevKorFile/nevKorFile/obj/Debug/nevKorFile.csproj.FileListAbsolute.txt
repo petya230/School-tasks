@@ -1,0 +1,6 @@
+C:\Users\petya\Desktop\visual\nevKorFile\nevKorFile\bin\Debug\nevKorFile.exe.config
+C:\Users\petya\Desktop\visual\nevKorFile\nevKorFile\bin\Debug\nevKorFile.exe
+C:\Users\petya\Desktop\visual\nevKorFile\nevKorFile\bin\Debug\nevKorFile.pdb
+C:\Users\petya\Desktop\visual\nevKorFile\nevKorFile\obj\Debug\nevKorFile.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\nevKorFile\nevKorFile\obj\Debug\nevKorFile.exe
+C:\Users\petya\Desktop\visual\nevKorFile\nevKorFile\obj\Debug\nevKorFile.pdb

@@ -1,0 +1,10 @@
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\bin\Debug\wfVezerlok1.exe.config
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\bin\Debug\wfVezerlok1.exe
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\bin\Debug\wfVezerlok1.pdb
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\obj\Debug\wfVezerlok1.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\obj\Debug\wfVezerlok1.Properties.Resources.resources
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\obj\Debug\wfVezerlok1.csproj.GenerateResource.cache
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\obj\Debug\wfVezerlok1.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\obj\Debug\wfVezerlok1.exe
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\obj\Debug\wfVezerlok1.pdb
+C:\Users\petya\Desktop\visual\wfVezerlok1\wfVezerlok1\obj\Debug\wfVezerlok1.Form1.resources

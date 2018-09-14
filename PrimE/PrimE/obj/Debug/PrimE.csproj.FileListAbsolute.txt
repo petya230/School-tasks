@@ -1,0 +1,7 @@
+C:\Users\petya\source\repos\PrimE\PrimE\bin\Debug\PrimE.exe.config
+C:\Users\petya\source\repos\PrimE\PrimE\bin\Debug\PrimE.exe
+C:\Users\petya\source\repos\PrimE\PrimE\bin\Debug\PrimE.pdb
+C:\Users\petya\source\repos\PrimE\PrimE\obj\Debug\PrimE.csprojAssemblyReference.cache
+C:\Users\petya\source\repos\PrimE\PrimE\obj\Debug\PrimE.csproj.CoreCompileInputs.cache
+C:\Users\petya\source\repos\PrimE\PrimE\obj\Debug\PrimE.exe
+C:\Users\petya\source\repos\PrimE\PrimE\obj\Debug\PrimE.pdb

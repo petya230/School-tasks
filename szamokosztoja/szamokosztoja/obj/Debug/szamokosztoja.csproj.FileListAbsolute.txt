@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\szamokosztoja\szamokosztoja\bin\Debug\szamokosztoja.exe.config
+C:\Users\petya\Desktop\visual\szamokosztoja\szamokosztoja\bin\Debug\szamokosztoja.exe
+C:\Users\petya\Desktop\visual\szamokosztoja\szamokosztoja\bin\Debug\szamokosztoja.pdb
+C:\Users\petya\Desktop\visual\szamokosztoja\szamokosztoja\obj\Debug\szamokosztoja.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\szamokosztoja\szamokosztoja\obj\Debug\szamokosztoja.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\szamokosztoja\szamokosztoja\obj\Debug\szamokosztoja.exe
+C:\Users\petya\Desktop\visual\szamokosztoja\szamokosztoja\obj\Debug\szamokosztoja.pdb

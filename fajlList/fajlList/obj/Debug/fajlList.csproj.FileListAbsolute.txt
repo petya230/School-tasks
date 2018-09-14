@@ -1,0 +1,6 @@
+C:\Users\petya\Desktop\visual\fajlList\fajlList\bin\Debug\fajlList.exe.config
+C:\Users\petya\Desktop\visual\fajlList\fajlList\bin\Debug\fajlList.exe
+C:\Users\petya\Desktop\visual\fajlList\fajlList\bin\Debug\fajlList.pdb
+C:\Users\petya\Desktop\visual\fajlList\fajlList\obj\Debug\fajlList.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\fajlList\fajlList\obj\Debug\fajlList.exe
+C:\Users\petya\Desktop\visual\fajlList\fajlList\obj\Debug\fajlList.pdb

@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\tombrendezes\tombrendezes\bin\Debug\tombrendezes.exe.config
+C:\Users\petya\Desktop\visual\tombrendezes\tombrendezes\bin\Debug\tombrendezes.exe
+C:\Users\petya\Desktop\visual\tombrendezes\tombrendezes\bin\Debug\tombrendezes.pdb
+C:\Users\petya\Desktop\visual\tombrendezes\tombrendezes\obj\Debug\tombrendezes.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\tombrendezes\tombrendezes\obj\Debug\tombrendezes.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\tombrendezes\tombrendezes\obj\Debug\tombrendezes.exe
+C:\Users\petya\Desktop\visual\tombrendezes\tombrendezes\obj\Debug\tombrendezes.pdb

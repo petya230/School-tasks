@@ -1,0 +1,6 @@
+C:\Users\petya\Desktop\visual\evvegiotos\evvegiotos\bin\Debug\evvegiotos.exe.config
+C:\Users\petya\Desktop\visual\evvegiotos\evvegiotos\bin\Debug\evvegiotos.exe
+C:\Users\petya\Desktop\visual\evvegiotos\evvegiotos\bin\Debug\evvegiotos.pdb
+C:\Users\petya\Desktop\visual\evvegiotos\evvegiotos\obj\Debug\evvegiotos.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\evvegiotos\evvegiotos\obj\Debug\evvegiotos.exe
+C:\Users\petya\Desktop\visual\evvegiotos\evvegiotos\obj\Debug\evvegiotos.pdb

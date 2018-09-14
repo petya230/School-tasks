@@ -1,0 +1,7 @@
+C:\Users\petya\Desktop\visual\honapneve\honapneve\bin\Debug\honapneve.exe.config
+C:\Users\petya\Desktop\visual\honapneve\honapneve\bin\Debug\honapneve.exe
+C:\Users\petya\Desktop\visual\honapneve\honapneve\bin\Debug\honapneve.pdb
+C:\Users\petya\Desktop\visual\honapneve\honapneve\obj\Debug\honapneve.csprojAssemblyReference.cache
+C:\Users\petya\Desktop\visual\honapneve\honapneve\obj\Debug\honapneve.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\honapneve\honapneve\obj\Debug\honapneve.exe
+C:\Users\petya\Desktop\visual\honapneve\honapneve\obj\Debug\honapneve.pdb

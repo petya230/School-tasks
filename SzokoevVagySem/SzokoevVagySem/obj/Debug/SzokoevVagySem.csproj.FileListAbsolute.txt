@@ -1,0 +1,6 @@
+C:\Users\petya\Desktop\visual\SzokoevVagySem\SzokoevVagySem\bin\Debug\SzokoevVagySem.exe.config
+C:\Users\petya\Desktop\visual\SzokoevVagySem\SzokoevVagySem\bin\Debug\SzokoevVagySem.exe
+C:\Users\petya\Desktop\visual\SzokoevVagySem\SzokoevVagySem\bin\Debug\SzokoevVagySem.pdb
+C:\Users\petya\Desktop\visual\SzokoevVagySem\SzokoevVagySem\obj\Debug\SzokoevVagySem.csproj.CoreCompileInputs.cache
+C:\Users\petya\Desktop\visual\SzokoevVagySem\SzokoevVagySem\obj\Debug\SzokoevVagySem.exe
+C:\Users\petya\Desktop\visual\SzokoevVagySem\SzokoevVagySem\obj\Debug\SzokoevVagySem.pdb
